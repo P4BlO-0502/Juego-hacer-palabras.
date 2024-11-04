@@ -1,0 +1,18 @@
+{
+    "palabras": [
+        "manzana", "perro", "gato", "casa", "árbol", "sol", "luna", "estrella",
+        "mar", "montaña", "río", "lago", "nube", "viento", "fuego", "tierra",
+        "cielo", "puerta", "ventana", "silla", "mesa", "lápiz", "libro", "papel",
+        "teléfono", "computadora", "juego", "música", "película", "arte", "ciencia",
+        "historia", "lenguaje", "escribir", "leer", "pensar", "soñar", "viajar",
+        "aeropuerto", "tren", "automóvil", "bicicleta", "camino", "ciudad", "pueblo",
+        "paisaje", "parque", "playa", "bosque", "desierto", "isla", "costa", "cascada",
+        "árboles", "flores", "hojas", "raíz", "semilla", "fruto", "insecto", "pájaro",
+        "pez", "mamífero", "reptil", "anfibio", "especie", "naturaleza", "planeta",
+        "universo", "galaxia", "estrella", "cometa", "satélite", "astronomía", "física",
+        "matemáticas", "química", "biología", "geografía", "cultura", "tradición",
+        "fiesta", "celebración", "regalo", "sorpresa", "recuerdo", "familia", "amigo",
+        "felicidad", "tristeza", "amor", "amistad", "valentía", "sabiduría", "esperanza",
+        "sueño", "vida", "muerte", "destino", "aventura", "desafío", "éxito"
+    ]
+}
